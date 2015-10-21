@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+h5 {
+  color: white;
+}
+p {
+ color: white;
+}
+span {
+  color: white;
+}
+img {
+display: block;
+margin: auto;
+}
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+div#interface{
+  width: 900px;
+  margin: 0px auto 0px auto;
+  border: 1px solid black;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
